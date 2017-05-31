@@ -1,8 +1,8 @@
 # React Samples from TernopilJS Cources (19.05.2017)
 
 ## Usage:
-1. cd to sample dir: ```cd 1-react-base```
-2. install deps: ```npm install```
+1. go to sample dir: ```cd 1-react-base```
+2. install sample deps: ```npm install```
 3. run sample: ```npm start``` 
 
 ## Samples description
