@@ -1,16 +1,18 @@
 # React Samples from TernopilJS Cources (19.05.2017)
 
 ## Usage:
-1. set current dir: ```cd 1-react-base```
+1. cd to sample dir: ```cd 1-react-base```
 2. install deps: ```npm install```
-3. run: ```npm start``` 
+3. run sample: ```npm start``` 
 
-## 0-react-boilerplate
+## Samples description
+
+### 0-react-boilerplate
 
 Shows:
 - good way to start off new React project
 
-## 1-react-base
+### 1-react-base
 
 Shows:
 - barebone React project
@@ -19,7 +21,7 @@ Details:
 - Lection video (ukr): https://youtu.be/V_xjDeEmT7c
 - Interactive sample: https://codepen.io/tasssik/pen/NjbGzE?editors=0010рр
 
-## 2-react-router
+### 2-react-router
 
 Shows:
 - Router usage
@@ -29,7 +31,7 @@ Details:
 - Lection video (ukr): https://youtu.be/5KjBcjOJxZw
 - Interactive sample: https://github.com/terrysahaidak/TernopilJSCourses/tree/master/lecture_react_webpack
 
-## 3-react-redux:
+### 3-react-redux:
 
 Shows:
 - Redux usage
