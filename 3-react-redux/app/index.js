@@ -1,9 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import ReduxThunk from 'redux-thunk';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import ReduxThunk from 'redux-thunk'
 
-import {Provider, connect} from 'react-redux';
-import {combineReducers, createStore, applyMiddleware, bindActionCreators, compose} from 'redux';
+import {Provider, connect} from 'react-redux'
+import {combineReducers, createStore, applyMiddleware, bindActionCreators, compose} from 'redux'
 
 const actionCreator = () => (dispatch, getState) => {
     setTimeout(() => {

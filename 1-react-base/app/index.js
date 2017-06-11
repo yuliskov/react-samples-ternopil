@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-require('./index.styl');
+import React from 'react'
+import ReactDOM from 'react-dom'
+require('./index.styl')
 
 const users = [{
     "id": "53331f585e986b0712f00000",
